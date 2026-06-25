@@ -343,3 +343,9 @@ The difference between the training and testing accuracy shows that the model is
     ```
 
     ### 
+
+# Index
+
+## [GitHub Pages](https://gigibrunel.github.io/W03-1-Reflection-Essay-Assignment/) 
+
+## [GitHub Repository](https://github.com/gigibrunel/W03-1-Reflection-Essay-Assignment)
